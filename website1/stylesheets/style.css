@@ -1,0 +1,90 @@
+.main-header {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.center {
+	text-align: center;
+}
+.div {
+	padding-bottom: 50px;
+}
+.table1 {
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+.table1 td {
+	border: 1px solid #0000ff;
+	background: #dfeef3;
+	padding: 14px;
+}
+.table2 {
+	border-collapse: separate;
+	border: 1px solid black;
+	background-color: #bbbbbb;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.table2 td, th {
+	border: 1px solid #333;
+	text-align: center;
+}
+/*.link {
+
+}*/
+.table3 {
+	width: 100%;
+	padding-left: 25px;
+	border-bottom: 2px solid #d6d6d6;
+	padding-bottom: 15px;
+	padding-top: 20px;
+}
+.table3 th {
+	background-color: white;
+	border: none;
+	padding-bottom: 15px;
+}
+.table3 td {
+	padding-left: 50px;
+}
+
+.group:before,
+.group:after {
+	content: "";
+	display: table;
+}
+.group:after {
+	clear:both;
+}
+.group {
+	padding-top: 50px;
+	padding-bottom: 35px;
+	clear:both;
+	*zoom: 1;
+}
+.circle {
+	width: 150px;
+	height: 150px;
+	background: green;
+	border-radius: 100px;
+	border: 2px solid black;
+	float: left;
+	margin: 0 10%;
+
+}
+.square {
+	width: 150px;
+	height: 150px;
+	background: purple;
+	border: 2px solid black;
+	float: left;
+	margin: 0 10%;
+}
+.img1 {
+	width: 150px;
+	height: 150px;
+	border: 2px solid blue;
+	float: right;
+	margin: 0 10%
+}

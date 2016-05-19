@@ -1,0 +1,46 @@
+.main-header {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.center {
+	text-align: center;
+}
+.body {
+	background-color: grey
+}
+.menu {
+	border: 1px dashed black;
+	width: 170px;
+	padding-bottom: 30px;
+}
+.img1 {
+	/*margin-left: 80px;*/
+	margin-right: 20%;
+	height: 175px;
+	float: right;
+}
+.div1 {
+	display: inline-block;
+}
+.div2 {
+	float: right;
+	padding-right: 100px;
+}
+.verticalline {
+	border-left: thick solid black;
+	padding-left: 160px;
+}
+.p1 {
+	width: 40%;
+	text-align: center;
+}
+.h1 {
+	text-decoration: underline;
+}
+.about {
+	padding-left: 100px;
+}
+.
+.ul {
+	list-style: none;
+}
